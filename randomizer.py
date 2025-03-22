@@ -59,4 +59,4 @@ def execute_simple_script() -> None:
     
     
 if __name__ == '__main__':
-    execute_simple_script()
+    execute()
